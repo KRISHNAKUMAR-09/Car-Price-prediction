@@ -1,5 +1,5 @@
 
-<img align= "left" alt="Coding" width= "200" src="https://png.pngtree.com/png-clipart/20200701/original/pngtree-car-seller-deals-buying-and-sale-flat-illustration-png-image_5426832.jpg">
+<img align= "left" alt="Coding" width= "150" src="https://png.pngtree.com/png-clipart/20200701/original/pngtree-car-seller-deals-buying-and-sale-flat-illustration-png-image_5426832.jpg">
 <h1 align="right">Car-Price-prediction</h1>
 
 This project aims to estimate the price of a used car based on its features and characteristics using machine learning techniques.
