@@ -19,7 +19,7 @@ This project aims to estimate the price of a used car based on its features and 
 # _Dataset_
   The project utilizes a labeled dataset of used cars for training and testing the model. The dataset consists of 205 rows and 26 columns. It does not contain any null values.
 
-Dataset link: 
+Dataset link: https://drive.google.com/file/d/1Eg7KXnKon3Vplv7uS5i6h-3_3e9HR2tG/view?usp=sharing
 
 # _Objectives_
 The main objectives of this project are as follows:
@@ -44,3 +44,5 @@ The main objectives of this project are as follows:
 
 # Results
   The **Random Forest and SVR** demonstrated its effectiveness in predicting the car price, achieving an accuracy score of **84%**. Random Forest model can serve as a valuable tool for detecting the spam messages.
+
+  Model Link: https://drive.google.com/file/d/1xQrXk_JvLrC3LQ0Yo9vG8XAyNGT1LRHV/view?usp=sharing
